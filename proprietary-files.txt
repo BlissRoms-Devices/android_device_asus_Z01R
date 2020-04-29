@@ -22,7 +22,7 @@ priv-app/AsusCamera/lib/arm/libtensorflowlite_jni.so
 
 # camera
 lib/DataSet/ispDB/ParameterDB.db
-etc/permissions/privapp-permissions-ASUS_Z01R.xml|7aab73d75fbd76aa16e1b33dba08c6ed12279b88
+etc/permissions/privapp-permissions-ASUS_Z01R.xml|288b9b8d8912f39fc325530e3366a1a0b9266f22
 product/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar
 product/lib64/libseccam-ipc.so
 product/lib64/libseccam.so
@@ -262,6 +262,7 @@ lib/libwfduibcsrcinterface.so
 -priv-app/WfdService/WfdService.apk
 
 # Asus apps
+-app/AsusBoost/AsusBoost.apk
 -priv-app/AsusCalculator/AsusCalculator.apk
 #-priv-app/AsusLauncherDev/AsusLauncherDev.apk
 #priv-app/AsusLauncherDev/lib/arm/libjni_filter_show.so
@@ -275,3 +276,5 @@ priv-app/MobileManager/lib/arm64/libavast-vps-interface.so
 -app/MobileManagerService/MobileManagerService.apk
 #-app/TwinApps/TwinApps.apk
 -priv-app/WeatherTime/WeatherTime.apk
+-priv-app/PowerSaving2/PowerSaving2.apk
+#-priv-app/ScreenRecorder/ScreenRecorder.apk
