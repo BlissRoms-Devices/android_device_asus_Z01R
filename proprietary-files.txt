@@ -270,7 +270,7 @@ lib/libwfduibcsrcinterface.so
 -priv-app/AsusSoundRecorder/AsusSoundRecorder.apk
 -priv-app/FileManager/FileManager.apk
 #-priv-app/GameBroadcaster/GameBroadcaster.apk
--priv-app/MobileManager/MobileManager.apk
+-priv-app/MobileManager/MobileManager.apk|50b6051a9f7ae367b0a3e45149d3842587dd0949
 priv-app/MobileManager/lib/arm64/libavast-utils.so
 priv-app/MobileManager/lib/arm64/libavast-vps-interface.so
 -app/MobileManagerService/MobileManagerService.apk
