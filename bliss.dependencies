@@ -4,11 +4,5 @@
     "repository": "BlissRoms-Devices/android_kernel_asus_sdm845",
     "target_path": "kernel/asus/sdm845",
     "revision": "q"
-  },
-  {
-    "remote": "github",
-    "repository": "BlissRoms-Devices/proprietary_vendor_asus",
-    "target_path": "vendor/asus",
-    "revision": "q"
   }
 ]
