@@ -251,6 +251,7 @@ lib/libwfdconfigutils.so
 lib/libwfdclient.so
 lib/libwfdmminterface.so
 lib/libwfdmmsink.so
+lib/libwfdsinksm.so
 lib/libwfdrtsp.so
 lib/libwfdservice.so
 lib/libwfdsm.so
