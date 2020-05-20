@@ -115,7 +115,9 @@ TARGET_USES_HWC2 := true
 TARGET_ENABLE_MEDIADRM_64 := true
 
 # GAPPS
-TARGET_GAPPS_OVERRIDE := GoogleCamera
+TARGET_GAPPS_OVERRIDE += \
+    GoogleCamera \
+    GoogleDialer
 
 # HIDL
 DEVICE_FRAMEWORK_MANIFEST_FILE := $(DEVICE_PATH)/framework_manifest.xml
