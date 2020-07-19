@@ -118,6 +118,10 @@ TARGET_ENABLE_MEDIADRM_64 := true
 TARGET_GAPPS_OVERRIDE += \
     GoogleCamera \
     GoogleDialer \
+    PixelLiveWallpaperPrebuilt \
+    NexusWallpapersStubPrebuilt2019 \
+    Chrome \
+    Photos \
     AudioFX
 
 # HIDL
