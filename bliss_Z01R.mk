@@ -29,7 +29,9 @@ $(call inherit-product, device/asus/Z01R/device.mk)
 $(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
 # Inherit PixelGApps
-$(call inherit-product-if-exists, vendor/gapps/gapps.mk)
+$(call inherit-product-if-exists, vendor/gapps/config.mk)
+TARGET_GAPPS_ARCH := arm64
+TARGET_INCLUDE_STOCK_ARCORE := true
 
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := Z01R
