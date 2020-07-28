@@ -268,7 +268,7 @@ lib/libwfduibcsrcinterface.so
 #-priv-app/AsusLauncherDev/AsusLauncherDev.apk
 #priv-app/AsusLauncherDev/lib/arm/libjni_filter_show.so
 #priv-app/AsusLauncherDev/lib/arm/libminizip_launcher.so
--priv-app/AsusSoundRecorder/AsusSoundRecorder.apk
+#-priv-app/AsusSoundRecorder/AsusSoundRecorder.apk
 -priv-app/FileManager/FileManager.apk
 #-priv-app/GameBroadcaster/GameBroadcaster.apk
 -priv-app/MobileManager/MobileManager.apk|50b6051a9f7ae367b0a3e45149d3842587dd0949

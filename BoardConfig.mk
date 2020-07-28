@@ -117,12 +117,12 @@ TARGET_ENABLE_MEDIADRM_64 := true
 # GAPPS
 TARGET_GAPPS_OVERRIDE += \
     GoogleCamera \
-    GoogleDialer \
     PixelLiveWallpaperPrebuilt \
     NexusWallpapersStubPrebuilt2019 \
     Chrome \
     Photos \
-    AudioFX
+    AudioFX \
+    Snap
 
 # HIDL
 DEVICE_FRAMEWORK_MANIFEST_FILE := $(DEVICE_PATH)/framework_manifest.xml
