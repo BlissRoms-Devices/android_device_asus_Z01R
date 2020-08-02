@@ -251,6 +251,7 @@ lib/libwfdconfigutils.so
 lib/libwfdclient.so
 lib/libwfdmminterface.so
 lib/libwfdmmsink.so
+lib/libwfdmmsrc_system.so
 lib/libwfdsinksm.so
 lib/libwfdrtsp.so
 lib/libwfdservice.so
@@ -261,6 +262,7 @@ lib/libwfduibcsinkinterface.so
 lib/libwfduibcsrc.so
 lib/libwfduibcsrcinterface.so
 -priv-app/WfdService/WfdService.apk
+product/lib/vendor.qti.hardware.wifidisplaysession@1.0.so
 
 # Asus apps
 -app/AsusBoost/AsusBoost.apk
@@ -278,4 +280,5 @@ priv-app/MobileManager/lib/arm64/libavast-vps-interface.so
 #-app/TwinApps/TwinApps.apk
 -priv-app/WeatherTime/WeatherTime.apk
 -priv-app/PowerSaving2/PowerSaving2.apk
+priv-app/PowerSaving2/lib/arm64/libJniModule.so
 #-priv-app/ScreenRecorder/ScreenRecorder.apk
