@@ -117,8 +117,6 @@ TARGET_ENABLE_MEDIADRM_64 := true
 # GAPPS
 TARGET_GAPPS_OVERRIDE += \
     GoogleCamera \
-    PixelLiveWallpaperPrebuilt \
-    NexusWallpapersStubPrebuilt2019 \
     Chrome \
     Photos \
     AudioFX \
