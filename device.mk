@@ -201,7 +201,9 @@ PRODUCT_PACKAGES += \
     libnl
 
 PRODUCT_BOOT_JARS += \
-    WfdCommon
-    
+    WfdCommon \
+    QPerformance \
+    UxPerformance
+
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/privapp-permissions-wfd.xml:system/etc/permissions/privapp-permissions-wfd.xml
