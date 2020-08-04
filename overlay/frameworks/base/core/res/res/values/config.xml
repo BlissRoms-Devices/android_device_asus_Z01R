@@ -696,5 +696,6 @@
 
     <!-- Smart charging -->
     <bool name="config_smartChargingAvailable">false</bool>
+    <string name="config_defaultGallery">com.asus.gallery</string>
 
 </resources>
