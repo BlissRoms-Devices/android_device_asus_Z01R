@@ -265,23 +265,13 @@ lib/libwfduibcsrcinterface.so
 product/lib/vendor.qti.hardware.wifidisplaysession@1.0.so
 
 # Asus apps
--app/AsusBoost/AsusBoost.apk
--priv-app/AsusCalculator/AsusCalculator.apk
-#-priv-app/AsusLauncherDev/AsusLauncherDev.apk
-#priv-app/AsusLauncherDev/lib/arm/libjni_filter_show.so
-#priv-app/AsusLauncherDev/lib/arm/libminizip_launcher.so
-#-priv-app/AsusSoundRecorder/AsusSoundRecorder.apk
 -priv-app/FileManager/FileManager.apk
-#-priv-app/GameBroadcaster/GameBroadcaster.apk
 -priv-app/MobileManager/MobileManager.apk|50b6051a9f7ae367b0a3e45149d3842587dd0949
 priv-app/MobileManager/lib/arm64/libavast-utils.so
 priv-app/MobileManager/lib/arm64/libavast-vps-interface.so
 -app/MobileManagerService/MobileManagerService.apk
-#-app/TwinApps/TwinApps.apk
--priv-app/WeatherTime/WeatherTime.apk
 -priv-app/PowerSaving2/PowerSaving2.apk
 priv-app/PowerSaving2/lib/arm64/libJniModule.so
-#-priv-app/ScreenRecorder/ScreenRecorder.apk
 
 #perf 
 -app/workloadclassifier/workloadclassifier.apk
