@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_Z01R.mk
+    $(LOCAL_DIR)/bliss_Z01R.mk
