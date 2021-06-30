@@ -1,15 +1,15 @@
 [
   {
     "remote": "github",
-    "repository": "AruAA/kernel_z01r",
+    "repository": "android_kernel_asus_sdm845",
     "target_path": "kernel/asus/sdm845",
-    "branch": "eleven"
+    "branch": "r"
   },
   {
     "remote": "github",
-    "repository": "AruAA/proprietary_vendor_asus-1",
+    "repository": "proprietary_vendor_asus",
     "target_path": "vendor/asus",
-    "branch": "lineage-18.1"
+    "branch": "11"
   },
   {
     "remote": "github",
