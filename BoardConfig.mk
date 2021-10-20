@@ -185,9 +185,9 @@ BOARD_ROOT_EXTRA_SYMLINKS := \
 VENDOR_SECURITY_PATCH := 2021-01-05
 
 # SELinux
-include device/qcom/sepolicy_vndr/SEPolicy.mk
-
-BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
+#include device/qcom/sepolicy_vndr/SEPolicy.mk
+#SELINUX_IGNORE_NEVERALLOWS := true
+BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy-minimal
 
 # Verified Boot
 BOARD_AVB_ENABLE := true
