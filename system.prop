@@ -85,5 +85,8 @@ persist.rcs.supported=0
 # Sensor
 persist.vendor.sensors.enable.mag_filter=true
 
+# System
+persist.sys.binary_xml=false
+
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
