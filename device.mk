@@ -448,12 +448,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_USE_VNDK_OVERRIDE := true
 
 # Trust HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.trust@1.0-service
 
 # Touch
-PRODUCT_PACKAGES += \
-    lineage.touch@1.0-service.asus_Z01R
+#PRODUCT_PACKAGES += \
+#    lineage.touch@1.0-service.asus_Z01R
 
 # Update engine
 PRODUCT_PACKAGES += \
