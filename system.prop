@@ -5,6 +5,9 @@ ro.config.media_vol_steps=25
 ro.config.vc_call_vol_steps=7
 tunnel.audio.encode=true
 
+#Bluetooth
+vendor.bluetooth.soc=cherokee
+
 # BPF
 ro.kernel.ebpf.supported=true
 
