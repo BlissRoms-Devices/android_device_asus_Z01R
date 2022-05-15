@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "5z-devs/android_kernel_asus_sdm845",
+    "target_path": "kernel/asus/sdm845",
+    "branch": "lineage-19.1"
+  },
+  {
+    "remote": "github",
+    "repository": "AruAA/proprietary_vendor_asus-2",
+    "target_path": "vendor/asus",
+    "branch": "snow"
+  },
+  {
+    "remote": "github",
+    "repository": "AOSPA/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf",
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf",
+    "branch": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "AOSPA/android_prebuilts_gcc_linux-x86_arm_arm-eabi",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
+    "branch": "master"
+  }
+]
